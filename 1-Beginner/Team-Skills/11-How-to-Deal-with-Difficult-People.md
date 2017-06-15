@@ -12,4 +12,4 @@ Difficult people do change and improve. I've seen it with my own eyes, but it is
 
 One of the challenges that every programmer but especially leaders face is keeping the difficult person fully engaged. They are more prone to duck work and resist passively than others.
 
-Next [Intermediate skills](../../2-Intermediate)
+Next [Intermediate skills](../../2-Intermediate/README.md)
