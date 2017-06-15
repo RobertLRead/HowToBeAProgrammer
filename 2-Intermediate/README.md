@@ -1,17 +1,17 @@
 # 2. Intermediate
 
 - Personal Skills
-	- [How to Stay Motivated](Personal-Skills/01-How to Stay Motivated.md)
-	- [How to be Widely Trusted](Personal-Skills/02-How to be Widely Trusted.md)
-	- [How to Tradeoff Time vs. Space](Personal-Skills/03-How to Tradeoff Time vs Space.md)
-	- [How to Stress Test](Personal-Skills/04-How to Stress Test.md)
-	- [How to Balance Brevity and Abstraction](Personal-Skills/05-How to Balance Brevity and Abstraction.md)
-	- [How to Learn New Skills](Personal-Skills/06-How to Learn New Skills.md)
-	- [Learn to Type](Personal-Skills/07-Learn to Type.md)
-	- [How to Do Integration Testing](Personal-Skills/08-How to Do Integration Testing.md)
-	- [Communication Languages](Personal-Skills/09-Communication Languages.md)
-	- [Heavy Tools](Personal-Skills/10-Heavy Tools.md)
-	- [How to analyze data](Personal-Skills/11-How to analyze data.md)
+	- [How to Stay Motivated](Personal-Skills/01-How-to-Stay-Motivated.md)
+	- [How to be Widely Trusted](Personal-Skills/02-How-to-be-Widely-Trusted.md)
+	- [How to Tradeoff Time vs. Space](Personal-Skills/03-How-to-Tradeoff-Time-vs-Space.md)
+	- [How to Stress Test](Personal-Skills/04-How-to-Stress-Test.md)
+	- [How to Balance Brevity and Abstraction](Personal-Skills/05-How-to-Balance-Brevity-and-Abstraction.md)
+	- [How to Learn New Skills](Personal-Skills/06-How-to-Learn-New-Skills.md)
+	- [Learn to Type](Personal-Skills/07-Learn-to-Type.md)
+	- [How to Do Integration Testing](Personal-Skills/08-How-to-Do-Integration-Testing.md)
+	- [Communication Languages](Personal-Skills/09-Communication-Languages.md)
+	- [Heavy Tools](Personal-Skills/10-Heavy-Tools.md)
+	- [How to analyze data](Personal-Skills/11-How-to-analyze-data.md)
 - Team Skills
 	- [How to Manage Development Time](Team-Skills/01-How to Manage Development Time.md)
 	- [How to Manage Third-Party Software Risks](Team-Skills/02-How to Manage Third-Party Software Risks.md)
