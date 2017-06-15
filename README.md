@@ -58,11 +58,11 @@ Welcome to the tribe.
 		- [Heavy Tools](2-Intermediate/Personal-Skills/10-Heavy-Tools.md)
 		- [How to analyze data](2-Intermediate/Personal-Skills/11-How-to-analyze-data.md)
 	- Team Skills
-		- [How to Manage Development Time](2-Intermediate/Team-Skills/01-How to Manage Development Time.md)
-		- [How to Manage Third-Party Software Risks](2-Intermediate/Team-Skills/02-How to Manage Third-Party Software Risks.md)
-		- [How to Manage Consultants](2-Intermediate/Team-Skills/03-How to Manage Consultants.md)
-		- [How to Communicate the Right Amount](2-Intermediate/Team-Skills/04-How to Communicate the Right Amount.md)
-		- [How to Disagree Honestly and Get Away with It](2-Intermediate/Team-Skills/05-How to Disagree Honestly and Get Away with It.md)
+		- [How to Manage Development Time](2-Intermediate/Team-Skills/01-How-to-Manage-Development-Time.md)
+		- [How to Manage Third-Party Software Risks](2-Intermediate/Team-Skills/02-How-to-Manage-Third-Party-Software-Risks.md)
+		- [How to Manage Consultants](2-Intermediate/Team-Skills/03-How-to-Manage-Consultants.md)
+		- [How to Communicate the Right Amount](2-Intermediate/Team-Skills/04-How-to-Communicate-the-Right-Amount.md)
+		- [How to Disagree Honestly and Get Away with It](2-Intermediate/Team-Skills/05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)
 	- Judgment
 		- [How to Tradeoff Quality Against Development Time](2-Intermediate/Judgment/01-How to Tradeoff Quality Against Development Time.md)
 		- [How to Manage Software System Dependence](2-Intermediate/Judgment/02-How to Manage Software System Dependence.md)

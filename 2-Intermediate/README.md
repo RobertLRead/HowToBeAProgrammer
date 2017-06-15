@@ -13,11 +13,11 @@
 	- [Heavy Tools](Personal-Skills/10-Heavy-Tools.md)
 	- [How to analyze data](Personal-Skills/11-How-to-analyze-data.md)
 - Team Skills
-	- [How to Manage Development Time](Team-Skills/01-How to Manage Development Time.md)
-	- [How to Manage Third-Party Software Risks](Team-Skills/02-How to Manage Third-Party Software Risks.md)
-	- [How to Manage Consultants](Team-Skills/03-How to Manage Consultants.md)
-	- [How to Communicate the Right Amount](Team-Skills/04-How to Communicate the Right Amount.md)
-	- [How to Disagree Honestly and Get Away with It](Team-Skills/05-How to Disagree Honestly and Get Away with It.md)
+	- [How to Manage Development Time](Team-Skills/01-How-to-Manage-Development-Time.md)
+	- [How to Manage Third-Party Software Risks](Team-Skills/02-How-to-Manage-Third-Party-Software-Risks.md)
+	- [How to Manage Consultants](Team-Skills/03-How-to-Manage-Consultants.md)
+	- [How to Communicate the Right Amount](Team-Skills/04-How-to-Communicate-the-Right-Amount.md)
+	- [How to Disagree Honestly and Get Away with It](Team-Skills/05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)
 - Judgment
 	- [How to Tradeoff Quality Against Development Time](Judgment/01-How to Tradeoff Quality Against Development Time.md)
 	- [How to Manage Software System Dependence](Judgment/02-How to Manage Software System Dependence.md)
