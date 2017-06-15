@@ -16,4 +16,4 @@ I love working with non-engineers. It provides great opportunities to learn and 
 
 Often non-engineers propose solutions that they think will make it easier on us out of kindness and a desire to do the right thing, when in fact a much better overall solution exists which can only be seen by synergizing the outsiders view with your technical judgement. I personally like Extreme Programming because it addresses this inefficiency; by marrying the estimation quickly to the idea, it makes it easier to find the idea that is the best combination of cost and benefit.
 
-Next [Advanced skills](../../3-Advanced)
+Next [Advanced skills](../../3-Advanced/README.md)
